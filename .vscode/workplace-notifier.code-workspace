@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		}
+	],
+	"settings": {
+		"asciidoc.use_asciidoctorpdf": true,
+		"asciidoc.use_kroki": true,
+		"asciidoc.useWorkspaceRoot": false,
+		"asciidoc.trace": "verbose",
+    	"asciidoc.preview.breaks": true,
+    	"asciidoc.preview.attributes": {
+        	"images": "../resources/images",
+        	"templates": "../resources/templates",
+        	"tables": "../resources/tables",
+        	"diagrams": "../resources/diagrams"
+    	}
+	}
+}
